@@ -118,7 +118,7 @@ namespace WeatherConsole1
                     Console.WriteLine("unit: " + result.wind.speed.unit.ToString());
                     Console.WriteLine("name: " + result.wind.speed.unit.ToString());
                     Console.WriteLine("===Direction===");
-                    //Console.WriteLine("value: " + result.wind.direction.value.ToString());
+                    Console.WriteLine("value: " + result.wind.direction.value.ToString());
                     Console.WriteLine("unit: " + result.wind.speed.unit.ToString());
                     Console.WriteLine("name: " + result.wind.speed.unit.ToString());
                     Console.WriteLine("===Clouds===");
